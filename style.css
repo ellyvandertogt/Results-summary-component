@@ -38,12 +38,16 @@
 }
 
                                                     /* DIV1 */
-                                               
+/* .container .div1 {
+    display: block;
+    justify-content: center;
+}                                                */
 .div1 {
     width: 500px;
     background-color:var(--Light-royal-blue);
     border-radius: 20px;
     color: var(--Pale-blue);
+    display: center;
     /* display: block;  */
     /* how to align content center */   
 }
@@ -59,8 +63,8 @@ div .blue  {
     height: 225px;
     border-radius: 50%;
     background-color: pink;
-    display: block;
-    justify-content: center;
+    display: center;
+    /* justify-content: center; */
 }
 
                                                     /* DIV2 */
