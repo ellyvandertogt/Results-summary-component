@@ -29,7 +29,7 @@
 
 
                                             /* CONTAINER */
-.container {
+/* .container {
     display: flex;
     width: 1000px;
     height: 700px;
@@ -42,33 +42,33 @@
     display: block;
     justify-content: center;
 }                                                */
-.div1 {
+/* .div1 {
     width: 500px;
     background-color:var(--Light-royal-blue);
     border-radius: 20px;
     color: var(--Pale-blue);
-    display: center;
-    /* display: block;  */
-    /* how to align content center */   
-}
-.div1 h2{
+    display: center; */
+                                                                /* display: block;  */
+                                                                /* how to align content center */   
+/* } */
+/* .div1 h2{
     display: flex;
     justify-content: center;
     margin-top: 45px;
     font-size: x-large;
-}
+} */
 
-div .blue  {
+/* div .blue  {
     width: 225px;
     height: 225px;
     border-radius: 50%;
     background-color: pink;
-    display: center;
-    /* justify-content: center; */
-}
+    display: center; */
+                                                                                /* justify-content: center; */
+/* } */
 
                                                     /* DIV2 */
-
+/* 
 .icon {
     display: flex;
     justify-content: space-between;
@@ -78,10 +78,4 @@ div .blue  {
     align-items: center;
     margin-top: 20px;
    
-}
-
-.icon  {
-    /* margin-top: 15px; */
-}
-
-    
+} */
